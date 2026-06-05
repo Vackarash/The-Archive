@@ -15,3 +15,5 @@ The Archive contains interviews and interesting snippets from various gaming jou
 # How This Project Started
 
 When learning Japanese in 2020, I had a plethora of tools at my disposal. It was easy to parse through Japanese subtitles of anime, and easy to extract dialogue lines from visual novels using Textractor. The biggest challenge was posed by physical print media—content that could not be recognized by digital tools like Yomichan. Looking back, I would have appreciated having it transcribed in some way. This project is aimed at filling that gap, giving passionate fans a way to progress in their Japanese studies while interacting with their favorite media using browser tools well-known in Japanese language community. Coincidentally, this repository also doubles as a preservation archive. However, it is a Japanese language learning tool first, meaning I do not aim to build a comprehensive database.
+
+This particular approach allows us to keep the lights on here.
