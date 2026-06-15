@@ -1,7 +1,7 @@
 # Interview between master programmer and master player
 
 **Source:** *POPCOM* (July 1986)  
-**Participants:** Kiya Yoshio, Kitazawa Koichi (the first person to receive the official certificate for beating Xanadu), J.D. (Kato Masayuki), Miyamoto Tsuneyuki  
+**Participants:** Kiya Yoshio, Kitazawa Koichi (the first person to receive the official certificate for beating Xanadu), J.D. (Kato Hisato, president of Basho House), Miyamoto Tsuneyuki  
 **Note:** Xanadu was considered such a difficult game that people who rolled the credits were eligible to receive an official completion certificate from Falcom.
 
 ## Script
