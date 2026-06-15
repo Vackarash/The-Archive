@@ -1,6 +1,6 @@
 # Three programmers eat Japanese eel and discuss video games
 
-**Source:** *LOGiN* (April 1986)  
+**Source:** *LOGiN* April 1986  
 **Participants:** Kiya Yoshio, Naito Tokihiro, Tomi Kazunari
 
 ## Script
